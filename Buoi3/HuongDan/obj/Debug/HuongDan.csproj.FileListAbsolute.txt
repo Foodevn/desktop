@@ -1,0 +1,10 @@
+C:\Users\PC602\source\repos\Buoi3\HuongDan\bin\Debug\HuongDan.exe.config
+C:\Users\PC602\source\repos\Buoi3\HuongDan\bin\Debug\HuongDan.exe
+C:\Users\PC602\source\repos\Buoi3\HuongDan\bin\Debug\HuongDan.pdb
+C:\Users\PC602\source\repos\Buoi3\HuongDan\obj\Debug\HuongDan.csproj.AssemblyReference.cache
+C:\Users\PC602\source\repos\Buoi3\HuongDan\obj\Debug\HuongDan.MainForm.resources
+C:\Users\PC602\source\repos\Buoi3\HuongDan\obj\Debug\HuongDan.Properties.Resources.resources
+C:\Users\PC602\source\repos\Buoi3\HuongDan\obj\Debug\HuongDan.csproj.GenerateResource.cache
+C:\Users\PC602\source\repos\Buoi3\HuongDan\obj\Debug\HuongDan.csproj.CoreCompileInputs.cache
+C:\Users\PC602\source\repos\Buoi3\HuongDan\obj\Debug\HuongDan.exe
+C:\Users\PC602\source\repos\Buoi3\HuongDan\obj\Debug\HuongDan.pdb
