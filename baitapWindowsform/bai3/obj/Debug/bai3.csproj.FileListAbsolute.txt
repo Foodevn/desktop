@@ -1,0 +1,13 @@
+C:\Users\HOANG PHUC\source\repos\baitapWindowsform\bai3\bin\Debug\bai3.exe.config
+C:\Users\HOANG PHUC\source\repos\baitapWindowsform\bai3\bin\Debug\bai3.exe
+C:\Users\HOANG PHUC\source\repos\baitapWindowsform\bai3\bin\Debug\bai3.pdb
+C:\Users\HOANG PHUC\source\repos\baitapWindowsform\bai3\obj\Debug\bai3.csproj.AssemblyReference.cache
+C:\Users\HOANG PHUC\source\repos\baitapWindowsform\bai3\obj\Debug\bai3.Cau1.resources
+C:\Users\HOANG PHUC\source\repos\baitapWindowsform\bai3\obj\Debug\bai3.formMain.resources
+C:\Users\HOANG PHUC\source\repos\baitapWindowsform\bai3\obj\Debug\bai3.Properties.Resources.resources
+C:\Users\HOANG PHUC\source\repos\baitapWindowsform\bai3\obj\Debug\bai3.csproj.GenerateResource.cache
+C:\Users\HOANG PHUC\source\repos\baitapWindowsform\bai3\obj\Debug\bai3.csproj.CoreCompileInputs.cache
+C:\Users\HOANG PHUC\source\repos\baitapWindowsform\bai3\obj\Debug\bai3.exe
+C:\Users\HOANG PHUC\source\repos\baitapWindowsform\bai3\obj\Debug\bai3.pdb
+C:\Users\HOANG PHUC\source\repos\baitapWindowsform\bai3\obj\Debug\bai3.Cau2.resources
+C:\Users\HOANG PHUC\source\repos\baitapWindowsform\bai3\obj\Debug\bai3.Cau3.resources
